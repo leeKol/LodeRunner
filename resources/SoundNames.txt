@@ -1,0 +1,11 @@
+Coin.wav
+Present.wav
+LevelEnd.wav
+Win.wav
+Lose.wav
+Clock.wav
+GameOver.wav
+Click.wav
+Dig.wav
+Heart.wav
+Fireworks.wav
